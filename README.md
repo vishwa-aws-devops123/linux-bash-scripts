@@ -12,3 +12,9 @@ This repository contains basic Bash scripts used for Linux administration and su
 ## Purpose
 
 This repository demonstrates basic Linux automation and scripting skills used in support and operations roles.
+
+## Additional Resources
+
+- interview-questions.md
+
+This file contains Bash scripting interview questions and answers related to Linux administration and automation.
